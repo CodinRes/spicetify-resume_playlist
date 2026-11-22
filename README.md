@@ -4,6 +4,6 @@ Descarga manual:
 
 aplicar cambios en la terminal:
 ```
-spicetify config extensions resume-playlist.js
+spicetify config extensions resumir-playlist.js
 spicetify apply
 ```
