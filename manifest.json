@@ -1,0 +1,14 @@
+{
+  "name": "Resume Playlist",
+  "description": "Guarda y reanuda automáticamente la posición exacta donde dejaste cada playlist.",
+  "preview": "preview.png",
+  "main": "resume-playlist.js",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "CodinRes",
+      "url": "https://github.com/CodinRes"
+    }
+  ],
+  "tags": ["playlist", "utility"]
+}
